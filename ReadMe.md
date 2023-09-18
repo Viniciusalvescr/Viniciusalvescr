@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 Graduando em SI<br>🌱 20Y<br>⚡ Newton Paiva<br>🤝 Qualquer ajuda e bem-vinda<br>💬 “Programação é a arte de criar algo do nada e, em seguida, vende-lo.” -Frank Zappa
+# 😁 Um poco sobre minha pessoa:
+🖥️ Graduando em SI<br>🙋‍♂️ 20Y<br>📘 Newton Paiva<br>🤝 Qualquer ajuda e bem-vinda<br>💬 “Programação é a arte de criar algo do nada e, em seguida, vende-lo.” -Frank Zappa
 
 
 ## 🌐 Socials:
